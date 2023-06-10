@@ -1,3 +1,3 @@
-# maven-project
+# Jenkins AWS ESR-project
 
-Simple Maven Project
+Simple Jenkins AWS ESR project
